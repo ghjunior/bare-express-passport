@@ -1,0 +1,20 @@
+{
+  "name": "node-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~3.0.0",
+    "connect-mongo": "~0.2.0",
+    "async": "~0.1.22",
+    "mongoose": "~3.5.3",
+    "emailjs": "~0.3.4",
+    "passport": "~0.1.15",
+    "passport-facebook": "~0.1.5",
+    "nconf": "~0.6.7",
+    "consolidate": "~0.8.0",
+    "ejs": "~0.8.3"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
